@@ -1,0 +1,9 @@
+{
+	"title": "test",
+	"author": "Joe",
+	"author link": "https://poisson.work",
+	"readme": {
+		"en": "test readme",
+		"ja": "テスト　リードミー"
+	}
+}
