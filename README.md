@@ -15,6 +15,10 @@ OP Snippets の拡張コンポーネントです
 
 ## Usage
 
++ OPSnippetsOnDemand.toxをSample Folderのに入っているものと置き換える
++ Windows: C:/Program Files/Derivative/TouchDesigner099/Samples/Learn/OPSnippets/OPSnippetsOnDemand.tox
++ Mac: /Applications/TouchDesigner.app/Contents/Resources/tfs/Samples/Learn/OPSnippets/OPSnippetsOnDemand.tox
+
 ## Contribution
 
 + Try to keep it down to 20 nodes or less.
